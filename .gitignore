@@ -2,3 +2,4 @@
 !cli/*.*
 !*.enc
 !.gitignore
+!commit.xml
